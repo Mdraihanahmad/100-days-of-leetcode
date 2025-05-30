@@ -9,7 +9,6 @@ public:
             reversed = reversed * 10 + x % 10;
             x /= 10;
         }
-
         // For even length: x == reversed
         // For odd length: x == reversed / 10 (middle digit doesn't matter)
         return x == reversed || x == reversed / 10;
