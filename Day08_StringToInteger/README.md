@@ -17,5 +17,3 @@ How to implement manual string parsing logic
 Importance of edge case handling for input formats
 Preventing overflow with early checks
 Improved confidence with parsing and integer boundary logic
-
-
