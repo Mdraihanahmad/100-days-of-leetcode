@@ -16,7 +16,6 @@ public:
             sign = (s[i] == '-') ? -1 : 1;
             i++;
         }
-
         // 3. Convert digits
         while (i < s.length() && isdigit(s[i])) {
             int digit = s[i] - '0';
