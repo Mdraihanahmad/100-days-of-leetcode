@@ -15,4 +15,4 @@ Given `n` vertical lines, find two lines that form a container such that the con
 ✅ How to use two pointers for optimal solution  
 ✅ Intuition behind moving the shorter line  
 ✅ Efficient area calculation logic using min and width  
-✅ Practiced edge-case handling when heights vary  
+✅ Practiced edge-case handling when heights vary 
