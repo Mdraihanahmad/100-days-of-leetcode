@@ -1,5 +1,4 @@
 # Day 33 - Search in Rotated Sorted Array
-
 ## Problem
 Search target in rotated sorted array with O(log n) time.
 
