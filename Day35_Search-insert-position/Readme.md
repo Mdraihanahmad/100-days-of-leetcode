@@ -20,6 +20,5 @@ O(1)
 ## Example
 Input:
 [1,3,5,6], target = 2
-
 Output:
 1
