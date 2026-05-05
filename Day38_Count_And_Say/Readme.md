@@ -20,6 +20,5 @@ O(n)
 
 ## Example
 n = 4
-
 Output:
 "1211"
